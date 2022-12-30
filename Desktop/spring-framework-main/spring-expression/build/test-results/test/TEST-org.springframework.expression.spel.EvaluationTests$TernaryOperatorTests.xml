@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" tests="9" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:37" hostname="wuhengdeMacBook-Pro.local" time="0.427">
+  <properties/>
+  <testcase name="ternaryExpressionWithImplicitGrouping()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.001"/>
+  <testcase name="ternaryOperator01()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.001"/>
+  <testcase name="ternaryOperator02()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.087"/>
+  <testcase name="ternaryOperator03()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.052"/>
+  <testcase name="ternaryOperator04()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.005"/>
+  <testcase name="ternaryOperator05()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.007"/>
+  <testcase name="ternaryOperator06()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.004"/>
+  <testcase name="ternaryOperatorWithNullValue()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.022"/>
+  <testcase name="ternaryExpressionWithExplicitGrouping()" classname="org.springframework.expression.spel.EvaluationTests$TernaryOperatorTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.EvaluationTests$PropertyAccessTests$NestedPropertiesTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:38" hostname="wuhengdeMacBook-Pro.local" time="0.025">
+  <properties/>
+  <testcase name="propertiesNested01()" classname="org.springframework.expression.spel.EvaluationTests$PropertyAccessTests$NestedPropertiesTests" time="0.001"/>
+  <testcase name="propertiesNested02()" classname="org.springframework.expression.spel.EvaluationTests$PropertyAccessTests$NestedPropertiesTests" time="0.019"/>
+  <testcase name="propertiesNested03()" classname="org.springframework.expression.spel.EvaluationTests$PropertyAccessTests$NestedPropertiesTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.standard.SpelCompilerTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:54" hostname="wuhengdeMacBook-Pro.local" time="4.46">
+  <properties/>
+  <testcase name="changingRegisteredVariableTypeDoesNotResultInFailureInMixedMode()" classname="org.springframework.expression.spel.standard.SpelCompilerTests" time="4.445"/>
+  <testcase name="expressionCompilesWhenMethodComesFromPublicInterface()" classname="org.springframework.expression.spel.standard.SpelCompilerTests" time="0.007"/>
+  <testcase name="defaultMethodInvocation()" classname="org.springframework.expression.spel.standard.SpelCompilerTests" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

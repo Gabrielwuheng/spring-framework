@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:37" hostname="wuhengdeMacBook-Pro.local" time="0.066">
+  <properties/>
+  <testcase name="unaryNotWithNullValue()" classname="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" time="0.002"/>
+  <testcase name="unaryMinus()" classname="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" time="0.001"/>
+  <testcase name="unaryNot01()" classname="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" time="0.001"/>
+  <testcase name="unaryNot02()" classname="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" time="0.003"/>
+  <testcase name="unaryPlus()" classname="org.springframework.expression.spel.EvaluationTests$UnaryOperatorTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

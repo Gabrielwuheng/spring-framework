@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.SetValueTests" tests="20" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:43" hostname="wuhengdeMacBook-Pro.local" time="0.331">
+  <properties/>
+  <testcase name="testSetGenericListElementValueTypeCoercionOK()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testIsWritableForInvalidExpressions_SPR10610()" classname="org.springframework.expression.spel.SetValueTests" time="0.003"/>
+  <testcase name="testSetGenericMapElementRequiresCoercion()" classname="org.springframework.expression.spel.SetValueTests" time="0.175"/>
+  <testcase name="testSetArrayElementInvalidIndex()" classname="org.springframework.expression.spel.SetValueTests" time="0.002"/>
+  <testcase name="testSetPropertyTypeCoercion()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetElementOfNull()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetListElementNestedValue()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetMapElements()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetArrayElementValue()" classname="org.springframework.expression.spel.SetValueTests" time="0.0"/>
+  <testcase name="testSetProperty()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetArrayElementValueAllPrimitiveTypes()" classname="org.springframework.expression.spel.SetValueTests" time="0.004"/>
+  <testcase name="testSetGenericListElementValueTypeCoercion()" classname="org.springframework.expression.spel.SetValueTests" time="0.054"/>
+  <testcase name="testErrorCase()" classname="org.springframework.expression.spel.SetValueTests" time="0.004"/>
+  <testcase name="testSetArrayElementValueAllPrimitiveTypesErrors()" classname="org.springframework.expression.spel.SetValueTests" time="0.016"/>
+  <testcase name="testAssign()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testSetNestedProperty()" classname="org.springframework.expression.spel.SetValueTests" time="0.022"/>
+  <testcase name="testSetArrayElementNestedValue()" classname="org.springframework.expression.spel.SetValueTests" time="0.005"/>
+  <testcase name="testSetListElementValue()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <testcase name="testIndexingIntoUnsupportedType()" classname="org.springframework.expression.spel.SetValueTests" time="0.002"/>
+  <testcase name="testSetPropertyTypeCoercionThroughSetter()" classname="org.springframework.expression.spel.SetValueTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.LiteralExpressionTests" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:40" hostname="wuhengdeMacBook-Pro.local" time="0.008">
+  <properties/>
+  <testcase name="testGetValue()" classname="org.springframework.expression.spel.LiteralExpressionTests" time="0.001"/>
+  <testcase name="testGetValueType()" classname="org.springframework.expression.spel.LiteralExpressionTests" time="0.0"/>
+  <testcase name="testSetValue()" classname="org.springframework.expression.spel.LiteralExpressionTests" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

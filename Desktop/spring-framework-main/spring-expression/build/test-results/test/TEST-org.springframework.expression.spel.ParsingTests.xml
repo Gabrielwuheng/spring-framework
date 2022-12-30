@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.springframework.expression.spel.ParsingTests" tests="58" skipped="0" failures="0" errors="0" timestamp="2022-12-26T13:57:42" hostname="wuhengdeMacBook-Pro.local" time="0.482">
+  <properties/>
+  <testcase name="literalString01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalString02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalString03()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="typeReferences01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="typeReferences02()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="literalHex01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="variables01()" classname="org.springframework.expression.spel.ParsingTests" time="0.004"/>
+  <testcase name="functions01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="functions02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="inlineList1()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsGE01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsGE02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsGT01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="relOperatorsIs01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsLE01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsLT01()" classname="org.springframework.expression.spel.ParsingTests" time="0.056"/>
+  <testcase name="inlineMapCreation01()" classname="org.springframework.expression.spel.ParsingTests" time="0.035"/>
+  <testcase name="inlineMapCreation02()" classname="org.springframework.expression.spel.ParsingTests" time="0.007"/>
+  <testcase name="booleanOperatorsOr01()" classname="org.springframework.expression.spel.ParsingTests" time="0.003"/>
+  <testcase name="booleanOperatorsOr02()" classname="org.springframework.expression.spel.ParsingTests" time="0.003"/>
+  <testcase name="booleanOperatorsOr03()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="booleanOperatorsOr04()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="mathOperatorsDivide01()" classname="org.springframework.expression.spel.ParsingTests" time="0.004"/>
+  <testcase name="mathOperatorsSubtract01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="booleanOperatorsMix01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="properties01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="properties02()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="properties03()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="methods01()" classname="org.springframework.expression.spel.ParsingTests" time="0.005"/>
+  <testcase name="methods02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="methods03()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalDate01()" classname="org.springframework.expression.spel.ParsingTests" time="0.004"/>
+  <testcase name="literalDate02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalLong01()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="literalNull01()" classname="org.springframework.expression.spel.ParsingTests" time="0.008"/>
+  <testcase name="references01()" classname="org.springframework.expression.spel.ParsingTests" time="0.058"/>
+  <testcase name="references03()" classname="org.springframework.expression.spel.ParsingTests" time="0.004"/>
+  <testcase name="literalReal01()" classname="org.springframework.expression.spel.ParsingTests" time="0.004"/>
+  <testcase name="literalInteger01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalInteger02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="mathOperatorsMultiply01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="elvis()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="mathOperatorModulus01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="assignmentToVariables01()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="ternaryOperator01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="ternaryOperator02()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="mixedOperators01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="literalBoolean01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="literalBoolean02()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="literalBoolean03()" classname="org.springframework.expression.spel.ParsingTests" time="0.015"/>
+  <testcase name="inlineListCreation01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="inlineListCreation02()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="relOperatorsMatches01()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <testcase name="relOperatorsMatches02()" classname="org.springframework.expression.spel.ParsingTests" time="0.002"/>
+  <testcase name="constructors01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="mathOperatorsAdd01()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="mathOperatorsAdd02()" classname="org.springframework.expression.spel.ParsingTests" time="0.0"/>
+  <testcase name="mathOperatorsAdd03()" classname="org.springframework.expression.spel.ParsingTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
